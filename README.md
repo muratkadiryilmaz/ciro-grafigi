@@ -12,7 +12,7 @@ Bu proje, bir şirketin 12 aylık ciro verilerini 1K ile 10K arasında **rastgel
 bunları hem **yatay** hem de **dikey** grafikler halinde terminalde gösterir.
 
 Projede amaç C dilinde: 
-- Diziler (`array`) | Döngüler (`for`) | Koşullu ifadeler (`if`)
+- Diziler (`array`) | Döngüler (`for`) | Koşullu ifadeler (`if-else`)
 - Rastgele sayı üretimi (`rand()` ve `srand(time(NULL))`)
 konularını uygulamalı şekilde öğrenmektir.
 
@@ -71,7 +71,7 @@ This project generates a company’s 12-month revenue data randomly between 1K a
 and displays it in both horizontal and vertical chart formats in the terminal.
 
 The goal of the project is to practice the following C programming concepts:
-- Arrays (array) | Loops (for) | Conditional statements (if)
+- Arrays (array) | Loops (for) | Conditional statements (if-else)
 - Random number generation (rand() and srand(time(NULL))
 
 ## ⚙️ How It Works
@@ -115,4 +115,7 @@ ciro-grafigi/
 └── README.md  
 
 This is the English version of the README. Scroll up for the Turkish version.
-
+```bash
+👨‍💻 Developed by: Murat Kadir Yılmaz
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/muratkadiryilmaz/)
+🔗 Linkedln: https://www.linkedin.com/in/murat-kadir-y%C4%B1lmaz-148b8b387/

@@ -115,11 +115,3 @@ ciro-grafigi/
 └── README.md  
 
 This is the English version of the README. Scroll up for the Turkish version.
-
-
-
-
-
-
-
-

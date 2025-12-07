@@ -86,7 +86,7 @@ Each element represents the revenue for one month (1–10K).
 4.The values are printed to the screen.
 
 5. Then, two types of charts are displayed:
-- H6. orizontal Chart: Each row represents one month; the number of stars corresponds to revenue size.
+- Horizontal Chart: Each row represents one month; the number of stars corresponds to revenue size.
 - Vertical Chart: Each column represents one month; the height of stars corresponds to revenue size.
 
 6. At the end, month numbers are printed in alignment.
@@ -114,6 +114,7 @@ ciro-grafigi/
 ├── ciro_dikey.c  
 └── README.md  
 
+This is the English version of the README. Scroll up for the Turkish version.
 
 
 

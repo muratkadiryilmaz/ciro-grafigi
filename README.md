@@ -11,7 +11,7 @@
 Bu proje, bir şirketin 12 aylık ciro verilerini 1K ile 10K arasında **rastgele üreterek**,  
 bunları hem **yatay** hem de **dikey** grafikler halinde terminalde gösterir.
 
-# Projede amaç C dilinde: 
+Projede amaç C dilinde: 
 - Diziler (`array`) | Döngüler (`for`) | Koşullu ifadeler (`if`)
 - Rastgele sayı üretimi (`rand()` ve `srand(time(NULL))`)
 konularını uygulamalı şekilde öğrenmektir.
@@ -94,5 +94,6 @@ ciro-grafigi/
 ├── ciro_yatay.c
 ├── ciro_dikey.c
 └── README.md
+
 
 

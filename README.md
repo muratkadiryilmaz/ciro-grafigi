@@ -57,7 +57,7 @@ ciro-grafigi/
 
 # 🌍 English Version
 
-## 🌍 12-Month Revenue Chart (C)
+## 📊 12-Month Revenue Chart (C)
 
 📅 **Date:** 07.12.2025
 🔗 **GitHub:** github.com/muratkadiryilmaz/ciro-grafigi
@@ -111,5 +111,6 @@ ciro-grafigi/
 - ├── ciro_yatay.c
 - ├── ciro_dikey.c
 - └── README.md
+
 
 

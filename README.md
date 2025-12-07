@@ -52,8 +52,64 @@ ciro-grafigi/
 - ├── ciro_yatay.c
 - ├── ciro_dikey.c
 - └── README.md
+  
+---
 
+# 🌍 English Version
 
+## 🌍 12-Month Revenue Chart (C)
 
+📅 **Date:** 07.12.2025
+🔗 **GitHub:** github.com/muratkadiryilmaz/ciro-grafigi
+
+📄 **A C program that displays 12 months of revenue data as horizontal and vertical ASCII charts.**
+
+## 🎯 Project Overview
+
+This project generates a company’s 12-month revenue data randomly between 1K and 10K,
+and displays it in both horizontal and vertical chart formats in the terminal.
+
+The goal of the project is to practice the following C programming concepts:
+- Arrays (array) | Loops (for) | Conditional statements (if)
+- Random number generation (rand() and srand(time(NULL))
+
+## ⚙️ How It Works
+
+1. The program creates an int array with 12 elements.
+Each element represents the revenue for one month (1–10K).
+
+2. Randomness is initialized using srand(time(NULL));.
+
+3. Revenues are generated using rand() % 10 + 1; (values between 1–10).
+
+4.The values are printed to the screen.
+
+5. Then, two types of charts are displayed:
+- H6. orizontal Chart: Each row represents one month; the number of stars corresponds to revenue size.
+- Vertical Chart: Each column represents one month; the height of stars corresponds to revenue size.
+
+6. At the end, month numbers are printed in alignment.
+
+## 🧠 Features
+
+- 12-element int array (each between 1–10K)
+- Random data generation: rand() and srand(time(NULL))
+- Both vertical and horizontal ASCII visualizations
+- Clean and easy-to-read C code structure
+
+## 💻 Technologies Used
+
+**C Programming Language**
+**stdio.h** — Output to console (printf)
+**stdlib.h **— Random number generation (rand, srand)
+**time.h** — Time-based randomness (time(NULL))
+
+---
+
+## 📂 File Structure
+ciro-grafigi/
+- ├── ciro_yatay.c
+- ├── ciro_dikey.c
+- └── README.md
 
 

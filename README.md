@@ -71,17 +71,17 @@ This project generates a company’s 12-month revenue data randomly between 1K a
 and displays it in both horizontal and vertical chart formats in the terminal.
 
 The goal of the project is to practice the following C programming concepts:
-- Arrays (array) | Loops (for) | Conditional statements (if-else)
-- Random number generation (rand() and srand(time(NULL))
+- Arrays (`array`) | Loops (`for`) | Conditional statements (`if-else`)
+- Random number generation (`rand()` and `srand(time(NULL))`)
 
 ## ⚙️ How It Works
 
-1. The program creates an int array with 12 elements.
+1. The program creates an `int` array with 12 elements.
 Each element represents the revenue for one month (1–10K).
 
-2. Randomness is initialized using srand(time(NULL));.
+2. Randomness is initialized using `srand(time(NULL));`.
 
-3. Revenues are generated using rand() % 10 + 1; (values between 1–10).
+3. Revenues are generated using `rand() % 10 + 1;` (values between 1–10).
 
 4. The values are printed to the screen.
 
@@ -93,17 +93,17 @@ Each element represents the revenue for one month (1–10K).
 
 ## 🧠 Features
 
-- 12-element int array (each between 1–10K)
-- Random data generation: rand() and srand(time(NULL))
+- 12-element `int` array (each between 1–10K)
+- Random data generation: `rand()` and `srand(time(NULL))`
 - Both vertical and horizontal ASCII visualizations
 - Clean and easy-to-read C code structure
 
 ## 💻 Technologies Used
 
 - **C Programming Language**  
-- **stdio.h** — Output to console (printf)  
-- **stdlib.h**— Random number generation (rand, srand)  
-- **time.h** — Time-based randomness (time(NULL))
+- **stdio.h** — Output to console (`printf`)  
+- **stdlib.h**— Random number generation (`rand`, `srand`)  
+- **time.h** — Time-based randomness (`time(NULL)`)
 
 ---
 
@@ -119,3 +119,4 @@ This is the English version of the README. Scroll up for the Turkish version.
 👨‍💻 Developed by: Murat Kadir Yılmaz
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/muratkadiryilmaz/)
 🔗 Linkedln: https://www.linkedin.com/in/murat-kadir-y%C4%B1lmaz-148b8b387/
+

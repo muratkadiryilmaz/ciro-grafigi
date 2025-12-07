@@ -59,8 +59,8 @@ ciro-grafigi/
 
 ## 📊 12-Month Revenue Chart (C)
 
-📅 **Date:** 07.12.2025
-🔗 **GitHub:** github.com/muratkadiryilmaz/ciro-grafigi
+📅 **Date:** 07.12.2025  
+🔗 **GitHub:** github.com/muratkadiryilmaz/ciro-grafigi  
 
 📄 **A C program that displays 12 months of revenue data as horizontal and vertical ASCII charts.**
 
@@ -111,6 +111,7 @@ ciro-grafigi/
 - ├── ciro_yatay.c
 - ├── ciro_dikey.c
 - └── README.md
+
 
 
 

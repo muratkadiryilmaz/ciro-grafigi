@@ -1,7 +1,7 @@
 # 📊 12 Aylık Ciro Grafiği (C)
 
 📅 **Tarih:** 07.12.2025    
-🔗 **GitHub:** [github.com/muratkadiryilmaz/ciro-grafigi](https://github.com/muratkadiryilmaz/ciro-grafigi) 
+🔗 **GitHub:** [github.com/muratkadiryilmaz/ciro-grafigi](https://github.com/muratkadiryilmaz/ciro-grafigi)  
 🔗 **Linkedln:** https://l24.im/OiXA  
 📄 **12 aylık ciro verilerini yatay ve dikey ASCII grafik olarak gösteren C programı.** 
 
@@ -119,5 +119,6 @@ This is the English version of the README. Scroll up for the Turkish version.
 👨‍💻 Developed by: Murat Kadir Yılmaz
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/muratkadiryilmaz/)
 🔗 Linkedln: https://www.linkedin.com/in/murat-kadir-y%C4%B1lmaz-148b8b387/
+
 
 

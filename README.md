@@ -102,7 +102,7 @@ Each element represents the revenue for one month (1–10K).
 
 **C Programming Language**  
 **stdio.h** — Output to console (printf)  
-**stdlib.h **— Random number generation (rand, srand)  
+**stdlib.h**— Random number generation (rand, srand)  
 **time.h** — Time-based randomness (time(NULL))
 
 ---
@@ -115,6 +115,7 @@ ciro-grafigi/
 └── README.md  
 
 This is the English version of the README. Scroll up for the Turkish version.
+
 
 
 

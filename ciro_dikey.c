@@ -16,7 +16,7 @@ int main() {
 
     int dizi[12];
     int max = 0;
-
+    printf("### Ciro Grafigi (Dikey Gorunum) ###\n\n");
     printf("12 Aylik ciro hesaplaniyor...\n\n");
     for (int i = 0; i < 12; i++){ // Rastgele ciro değerlerini oluşturur.
         dizi[i] = rand() % 10 + 1; // 1 ile 10 arasında.
@@ -28,7 +28,6 @@ int main() {
         printf("%2d ",dizi[i]);
     }
     printf("\n\n");
-    printf("Ciro Grafigi (Dikey Gorunum): \n\n");
     
     for (int i = max; i > 0; i--){ // Yukaridan asagiya satirlar
         for (int j = 0; j < 12; j++){ // Soldan saga aylar

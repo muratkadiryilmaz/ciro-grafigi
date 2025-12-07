@@ -107,10 +107,11 @@ Each element represents the revenue for one month (1–10K).
 ---
 
 ## 📂 File Structure
-ciro-grafigi/
+ciro-grafigi/  
 ├── ciro_yatay.c  
 ├── ciro_dikey.c  
 └── README.md  
+
 
 
 

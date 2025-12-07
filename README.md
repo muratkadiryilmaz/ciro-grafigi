@@ -83,7 +83,7 @@ Each element represents the revenue for one month (1–10K).
 
 3. Revenues are generated using rand() % 10 + 1; (values between 1–10).
 
-4.The values are printed to the screen.
+4. The values are printed to the screen.
 
 5. Then, two types of charts are displayed:
 - Horizontal Chart: Each row represents one month; the number of stars corresponds to revenue size.
@@ -115,3 +115,4 @@ ciro-grafigi/
 └── README.md  
 
 This is the English version of the README. Scroll up for the Turkish version.
+

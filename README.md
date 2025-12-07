@@ -99,18 +99,19 @@ Each element represents the revenue for one month (1–10K).
 
 ## 💻 Technologies Used
 
-**C Programming Language**
-**stdio.h** — Output to console (printf)
-**stdlib.h **— Random number generation (rand, srand)
+**C Programming Language**  
+**stdio.h** — Output to console (printf)  
+**stdlib.h **— Random number generation (rand, srand)  
 **time.h** — Time-based randomness (time(NULL))
 
 ---
 
 ## 📂 File Structure
 ciro-grafigi/
-- ├── ciro_yatay.c
-- ├── ciro_dikey.c
-- └── README.md
+├── ciro_yatay.c  
+├── ciro_dikey.c  
+└── README.md  
+
 
 
 

@@ -58,7 +58,7 @@ ciro-grafigi/
 
 # 🌍 English Version
 
-## 📊 12-Month Revenue Chart (C)
+## 📊 12 Month Revenue Chart (C)
 
 📅 **Date:** 07.12.2025  
 🔗 **GitHub:** [github.com/muratkadiryilmaz/ciro-grafigi](https://github.com/muratkadiryilmaz/ciro-grafigi)    
@@ -119,6 +119,7 @@ This is the English version of the README. Scroll up for the Turkish version.
 👨‍💻 Developed by: Murat Kadir Yılmaz
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/muratkadiryilmaz/)
 🔗 Linkedln: https://www.linkedin.com/in/murat-kadir-y%C4%B1lmaz-148b8b387/
+
 
 
 

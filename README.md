@@ -49,9 +49,10 @@ konularını uygulamalı şekilde öğrenmektir.
 
 ## 📂 Dosya Yapısı
 ciro-grafigi/
-├── ciro_yatay.c
-├── ciro_dikey.c
-└── README.md
+- ├── ciro_yatay.c
+- ├── ciro_dikey.c
+- └── README.md
+
 
 
 
